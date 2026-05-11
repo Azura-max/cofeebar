@@ -35,7 +35,7 @@ nav a:hover {
     color: #333D4B;
 }
 main {
-    background-image: url("imglar/bitmap2.svg");   
+    background-image: url("/imglar/bitmap2.svg");   
     background-size: cover;
     background-position: center;
     width: 1700px;
